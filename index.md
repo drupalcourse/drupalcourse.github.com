@@ -26,6 +26,20 @@ tagline: Drupal Training Service by Drupal forks from Vietnam
 - [Drupal @ Linkhay](http://linkhay.com/course-xay-dung-website-bang-drupal-dau-tien-tai-viet-nam/684585)
 - [Web Dev @ Linkhay](http://linkhay.com/khoa-hoc-tim-hieu-drupal-tai-sai-gon-drupal-dpvn/684584)
 
+### Contact
+
+> Liên hệ Mr Khánh, cty KH2Soft
+>
+> Phone: 08 - 6684 3765
+>
+> Mobile: 0917 212 508
+>
+> Email: contact@kh2soft.com
+>
+> Liên hệ Miss : Đặng Ngọc Anh Thư
+>
+> Mobile: 0919 948 139
+
 <style>
     .row .span12 {
         position: relative;
