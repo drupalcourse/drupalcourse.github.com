@@ -20,6 +20,11 @@ tagline: Drupal Training Service by Drupal forks from Vietnam
     {% include JB/pages_list %}
 </ul>
 
+### Ads
+
+- [Drupal Vietnam Group](http://groups.drupal.org/node/209718)
+- [Drupal @ Linkhay](http://linkhay.com/course-xay-dung-website-bang-drupal-dau-tien-tai-viet-nam/684585)
+- [Web Dev @ Linkhay](http://linkhay.com/khoa-hoc-tim-hieu-drupal-tai-sai-gon-drupal-dpvn/684584)
 
 <style>
     .row .span12 {
