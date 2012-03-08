@@ -1,5 +1,6 @@
 ---
-layout    : post
+layout    : page
+title     : Drupal Site Building Class
 group     : Announcement
 permalink : /site-building
 refs      :
