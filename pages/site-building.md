@@ -1,7 +1,7 @@
 ---
 layout    : post
 group     : Announcement
-permalink : /news/2012/02/khoa-hoc-tim-hieu-drupal/site-building
+permalink : /site-building
 refs      :
     - Drush http://drupalize.me/videos/what-drush
     - Features http://drupalize.me/videos/introduction-drupal-features-module
