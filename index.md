@@ -8,7 +8,7 @@ tagline: Drupal Training Service by Drupal forks from Vietnam
 
 ### Announcement
 <ul class="announcements">
-    {% assign pages_list = site.pages %}
+    {% assign pages_list = site.posts %}
     {% assign group = 'Announcement' %}
     {% include JB/pages_list %}
 </ul>
