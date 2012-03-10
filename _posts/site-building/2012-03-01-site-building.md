@@ -1,5 +1,5 @@
 ---
-layout    : page
+layout    : post
 title     : Drupal Site Building Class
 group     : Announcement
 permalink : /site-building/
