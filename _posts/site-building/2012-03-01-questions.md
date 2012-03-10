@@ -1,9 +1,9 @@
 
 ---
 layout    : post
-title     : Drupal Site Building Class
+title     : Questions - Drupal Site Building Class
 group     : Announcement
-permalink : /site-building/
+permalink : /site-building/qa/
 refs      :
     - Drush http://drupalize.me/videos/what-drush
     - Features http://drupalize.me/videos/introduction-drupal-features-module
