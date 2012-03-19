@@ -58,3 +58,15 @@ phát triển Drupal, sử dụng những API mạnh mẽ mà Drupal cung cấp.
 * Sinh viên CNTT
 * Có kiến thức PHP & MySQL
 * Đã tìm hiểu sơ qua về Drupal
+
+
+## Địa điểm học
+
+- __Địa chỉ:__ 233D, Phan Văn Trị, Phường 11, Quận Bình Thạnh
+- __Ngày học:__ Thứ 3 - Thứ 5 - Thứ 7
+- __Giờ học:__ 6:00 - 9:00PM
+
+## Học Phí
+
+- __Học phí:__ 2,150,000/khoá
+- __Giảm 10%__ cho mọi học viên đã tham gia một trong các khoá học trước.
