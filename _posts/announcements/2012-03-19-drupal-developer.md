@@ -68,5 +68,5 @@ phát triển Drupal, sử dụng những API mạnh mẽ mà Drupal cung cấp.
 
 ## Học Phí
 
-- __Học phí:__ 2,150,000/khoá
+- __Học phí:__ 2,150,000 vnd/khoá
 - __Giảm 10%__ cho mọi học viên đã tham gia một trong các khoá học trước.
