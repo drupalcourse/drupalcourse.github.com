@@ -38,9 +38,9 @@ phát triển Drupal, sử dụng những API mạnh mẽ mà Drupal cung cấp.
 * Hệ thống hook
 * Documentation, Doxygen, API module.
 * Tạo pages:
-    * Cấu trúc trang
-    * hook_menu()
-    * hook_permission()
+  * Cấu trúc trang
+  * hook_menu()
+  * hook_permission()
 * Modules: Devel, Module Builder, Form Builder
 * Drupal Render API
 * Theme System
@@ -59,12 +59,12 @@ phát triển Drupal, sử dụng những API mạnh mẽ mà Drupal cung cấp.
 * Có kiến thức PHP & MySQL
 * Đã tìm hiểu sơ qua về Drupal
 
-
-## Địa điểm học
+## Thời gian & Địa điểm học
 
 - __Địa chỉ:__ 233D, Phan Văn Trị, Phường 11, Quận Bình Thạnh
 - __Ngày học:__ Thứ 3 - Thứ 5 - Thứ 7
 - __Giờ học:__ 6:00 - 9:00PM
+- __Bắt đầu:__ 27/03/2012
 
 ## Học Phí
 
