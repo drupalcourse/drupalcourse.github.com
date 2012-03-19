@@ -10,13 +10,13 @@ permalink : /site-developer/annoucement/2012-03B
 
 Người xây dựng website Drupal có thể chia ra làm hai loại:
 
-    (1) Một là người am hiểu cấu trúc và tất cả khái niệm của Drupal. Ngoài anh ta am hiểu nhiều 
-        module mạnh, có thể kết hợp nhuần nhuyễn với nhau để tạo ra nhiều ứng dụng web phức tạp.
-        Tuy nhiên, xét cho cùng, người này không phải là Drupal Developer.
-    (2) Hai là, người có khả năng như (1) và có khả năng giải quyết những vấn đề phức tạp hơn: những
-        việc đòi hỏi custom-work, mở rộng tính năng,  xây dựng tính năng mới. Đây là một Drupal
-        Developer đích thực.
-        
+(1) Một là người am hiểu cấu trúc và tất cả khái niệm của Drupal. Ngoài anh ta am hiểu nhiều module
+    mạnh, có thể kết hợp nhuần nhuyễn với nhau để tạo ra nhiều ứng dụng web phức tạp. Tuy nhiên, xét
+    cho cùng, người này không phải là Drupal Developer.
+(2) Hai là, người có khả năng như (1) và có khả năng giải quyết những vấn đề phức tạp hơn: những việc
+    đòi hỏi custom-work, mở rộng tính năng,  xây dựng tính năng mới. Đây là một Drupal Developer
+    đích thực.
+    
 Drupal là một CMS mạnh, tuy nhiên có cũng là một CMS Framework, cho phép chúng ta dựa trên nó, nhanh
 chóng xây dựng những tính năng mới. Khóa học "Drupal Developer" của chúng tôi xây dựng, đúc kết những
 kinh nghiệm thực tế thành những bài học rất bài bản, giúp bạn nhanh chóng làm quen với môi trường 
