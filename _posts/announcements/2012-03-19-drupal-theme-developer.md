@@ -2,7 +2,7 @@
 layout    : post
 title     : Drupal Theme Developer Course
 group     : Announcement
-permalink : /site-theme-developer/annoucement/2012-03B
+permalink : /drupal-theme-developer/annoucement/2012-03B
 ---
 {% include JB/setup %}
 

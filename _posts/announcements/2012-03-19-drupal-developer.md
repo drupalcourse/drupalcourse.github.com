@@ -2,7 +2,7 @@
 layout    : post
 title     : Drupal Developer Course
 group     : Announcement
-permalink : /site-developer/annoucement/2012-03B
+permalink : /drupal-developer/annoucement/2012-03B
 ---
 {% include JB/setup %}
 
@@ -61,11 +61,11 @@ phát triển Drupal, sử dụng những API mạnh mẽ mà Drupal cung cấp.
 
 ## Thời gian & Địa điểm học
 
-- __Địa chỉ:__ 233D, Phan Văn Trị, Phường 11, Quận Bình Thạnh
+- __Địa chỉ:__  233D, Phan Văn Trị, Phường 11, Quận Bình Thạnh
 - __Ngày học:__ Thứ 2 - Thứ 4 - Thứ 6
-- __Giờ học:__ 6:00 - 9:00PM
-- __Bắt đầu:__ 26/03/2012
-- __Kết thúc:__06/04/2012 
+- __Giờ học:__  6:00 - 9:00PM
+- __Bắt đầu:__  26/03/2012
+- __Kết thúc:__ 13/04/2012 
 
 ## Học Phí
 
