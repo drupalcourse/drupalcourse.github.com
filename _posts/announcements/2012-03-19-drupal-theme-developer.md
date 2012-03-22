@@ -70,3 +70,7 @@ Themes, Devel Themer, SASS, Compass, Less, ...
 
 - __Học phí:__ 1,950,000 vnd/khoá
 - __Giảm 10%__ cho mọi học viên đã tham gia một trong các khoá học trước.
+
+## Đăng ký tham dự
+
+> Mời bạn nhấp vào [đường link này](https://docs.google.com/a/kh2soft.com/spreadsheet/viewform?formkey=dG5pRlBKeHVrOTJZWC1GRUVnZW92b0E6MQ#gid=0) để đăng ký tham dự khoá học.

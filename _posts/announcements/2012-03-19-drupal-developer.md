@@ -71,3 +71,7 @@ phát triển Drupal, sử dụng những API mạnh mẽ mà Drupal cung cấp.
 
 - __Học phí:__ 2,150,000 vnd/khoá
 - __Giảm 10%__ cho mọi học viên đã tham gia một trong các khoá học trước.
+
+## Đăng ký tham dự
+
+> Mời bạn nhấp vào [đường link này](https://docs.google.com/a/kh2soft.com/spreadsheet/viewform?formkey=dG5rY3ZjM1p6VDBlelQtLS01Nk9vYWc6MQ#gid=0) để đăng ký tham dự khoá học.
