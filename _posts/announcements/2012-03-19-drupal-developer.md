@@ -64,8 +64,8 @@ phát triển Drupal, sử dụng những API mạnh mẽ mà Drupal cung cấp.
 - __Địa chỉ:__  233D, Phan Văn Trị, Phường 11, Quận Bình Thạnh
 - __Ngày học:__ Thứ 2 - Thứ 4 - Thứ 6
 - __Giờ học:__  6:00 - 9:00PM
-- __Bắt đầu:__  26/03/2012
-- __Kết thúc:__ 13/04/2012 
+- __Bắt đầu:__  02 Tháng 04 2012
+- __Kết thúc:__ 20 Tháng 04 012 
 
 ## Học Phí
 

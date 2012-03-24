@@ -3,6 +3,7 @@ layout    : post
 title     : Drupal Theme Developer Course
 group     : Announcement
 permalink : /drupal-theme-developer/annoucement/2012-03B
+ref       : http://opencmstutorial.blogspot.com/2010/08/tong-quan-ve-drupal.html
 ---
 {% include JB/setup %}
 
@@ -61,10 +62,11 @@ Themes, Devel Themer, SASS, Compass, Less, ...
 
 ## Thời gian & Địa điểm học
 
-- __Địa chỉ:__ 233D, Phan Văn Trị, Phường 11, Quận Bình Thạnh
+- __Địa chỉ:__  233D, Phan Văn Trị, Phường 11, Quận Bình Thạnh
 - __Ngày học:__ Thứ 7 - Chủ nhật
-- __Giờ học:__ 8:00 - 11:30AM, 1:00 - 5:00PM
-- __Bắt đầu:__ 24/03/2012
+- __Giờ học:__  8:00 - 11:30AM, 1:00 - 5:00PM
+- __Bắt đầu:__  07 Tháng 04, 2012
+- __Kết thúc:__ 08 Tháng 04, 2012
 
 ## Học Phí
 
