@@ -17,7 +17,7 @@ Qua khoá học "Drupal Theme Developer", chúng tôi giới thiệu với các 
 Drupal. Từ đó, bạn sẽ nắm bắt được nội dung trình bày ở trang Drupal được trình bày như thế nào, 
 biết cách tuỳ biến nó, ép nó vào mẫu thiết kế của bạn.
 
-Khoá học cũng sẽ giới thiệu với các bạn các công cụ mạnh hỗ trợ cho quátrình Drupal Theming: Base 
+Khoá học cũng sẽ giới thiệu với các bạn các công cụ mạnh hỗ trợ cho quá trình Drupal Theming: Base 
 Themes, Devel Themer, SASS, Compass, Less, ...
 
 ## Khả năng đạt được sau khi tham dự khóa học
