@@ -79,6 +79,9 @@ Học phí cho 9 ngày học, mỗi ngày 3 giờ.
 
 ### Thời gian:
 
-- Lớp học từ 18h - 21h mỗi ngày từ thứ 2 đến thứ 6.
-- Khoá I bắt đầu từ ngày 1/3/2012 đến ngày 13/3/2012
-- Khoá II bắt đầu từ ngày 15/3/2012 đến ngày 27/3/2012
+- _Khoá I:_
+    - _Bắt đầu từ ngày 1 Tháng 03, 2012 đến ngày 13 Tháng 03, 2012_
+    - _Lớp học từ 18h - 21h mỗi ngày từ thứ 2 đến thứ 6._
+- __Khoá II bắt đầu từ ngày 03 Tháng 04, 2012 đến ngày Tháng 04, 012__
+    - __Bắt đầu từ ngày 1 Tháng 03, 2012 đến ngày 21 Tháng 04, 2012__
+    - __Lớp học từ 18h - 21h, thứ 3, thứ năm, thứ 7.__
